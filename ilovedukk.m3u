@@ -17,3 +17,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/mono.ts.m3
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=bTtcgb9gPIRWd9kafkd-hQ&e=1752184463&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Мультики",Nickelodeon
 http://195.245.99.242:80/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 1
+https://sb-3.restream.su/preview/20001/61346f1c-4cc6-46e5-9f54-0d8c72188567/live.m3u8
