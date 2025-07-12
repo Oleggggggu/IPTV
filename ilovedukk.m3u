@@ -32,3 +32,6 @@ http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 https://mhd128.iptv2022.com/p/6-oIKW9GqkvfhfKVZZd35g,1752389611/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", TV1000 Action
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=bTtcgb9gPIRWd9kafkd-hQ&e=1752184463&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1655386719.png", 2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/2CjNRfufa_5NxMTe8OT_iA,1752389614/streaming/2x2/324/1/tracks-v5a1/mono.m3u8
