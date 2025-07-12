@@ -44,6 +44,7 @@ https://mhd128.iptv2022.com/p/zUV3lyyj-YkHybCCjTC7ew,1752389613/streaming/taina-
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Документалка",Моя Планета HD
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan/playlist.m3u8
+#EXTINF:-1 group-title="Документальные",Moya Planeta HD (от Хугуфрейм)
+http://46.151.151.245:10002/play/a0b5/index.m3u8
+
 
