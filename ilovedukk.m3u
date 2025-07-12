@@ -1,22 +1,15 @@
 #EXTM3U
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Киносемья HD
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=...
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Киномикс HD
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=...
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=...
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Кинокомедия HD
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=...
-#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кино",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",VIJU+ MEGAHIT HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=...
-#EXTINF:-1 tvg-id="tv1000" group-title="Кино",viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=...&e=1752184424&hls_proxy_host=...
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=...&e=1752184463&hls_proxy_host=...
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Мультики",Nickelodeon
-http://195.245.99.242:80/Nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Кинопремьера HD" tvg-logo="https://cdn.epg.one/img2/566.png",Кинопремьера
+http://45.159.74.22/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Кинохит HD" tvg-logo="https://cdn.epg.one/img2/542.png",Кинохит
+http://45.159.74.22:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Кинокомедия HD" tvg-logo="https://cdn.epg.one/img2/821.png",Кинокомедия
+http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="Киносемья HD" tvg-logo="https://cdn.epg.one/img2/987.png",Киносемья
+http://45.159.74.22/VipComedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="Мир HD" catchup="append" catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/726.png",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 3u8
