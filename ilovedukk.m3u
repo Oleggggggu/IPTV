@@ -7,24 +7,5 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="LIST1",Киномикс HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://95.142.88.250:80/kinomix_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинохит HD.png" group-title="LIST1",Кинохит HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://95.142.88.250:80/kinohit_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС HD.png" group-title="LIST1",СТС HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TV1000 HD.png" group-title="LIST1",TV1000 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy HD.png" group-title="LIST1",Galaxy HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://95.142.88.250:80/Tayny_Galaktiki/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="LIST1",Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://95.142.88.250:80/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя планета HD.png" group-title="LIST1",Моя планета HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://194.143.148.28:8080/Moya_Planeta/mpegts
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://epgx.site/p/tv1000.png",Viju TV1000 (HD)
+http://141.95.55.143/CH3869/index.m3u8
