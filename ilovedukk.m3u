@@ -9,7 +9,16 @@ http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 http://45.159.74.22/VipComedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="Мир HD" catchup="append" catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/726.png",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТНТ4 HD" catchup="append" catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1649.png",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="ТНТ HD" catchup="append" catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/1767.png",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="СТС HD" catchup="append" catchup-days="3" catchup-source="?utcstart=${start}&utcend=${end}" tvg-logo="https://cdn.epg.one/img2/79.png",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Discovery Channel HD" tvg-logo="https://cdn.epg.one/img2/325.png",Discovery
+http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="National Geographic HD" tvg-logo="https://cdn.epg.one/img2/389.png",National Geographic
+http://45.159.74.22/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="Nat Geo Wild HD" tvg-logo="https://cdn.epg.one/img2/807.png",Nat Geo Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-3u8
