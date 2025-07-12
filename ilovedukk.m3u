@@ -46,11 +46,7 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Outdoor",Moya Planeta
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action HD (forum backup)
-http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:0 group-title="Кино"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",Viju TV1000 Action
+#EXTGRP:Кино
+http://ott.server-iptv.live/623/video.m3u8?token=Md7ac19a92
 
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action HD (форум резерв)
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2 :contentReference[oaicite:1]{index=1}
-
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action HD (резерв 2)
-http://212.0.215.106/TV1000Act/playlist.m3u8 :contentReference[oaicite:2]{index=2}
