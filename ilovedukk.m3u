@@ -1,23 +1,22 @@
 #EXTM3U
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Киносемья HD
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzMTE3ODAsImlhdCI6MTc1MjIyNTM4MCwiY2lkIjo2LCJ1aWQiOjkyOTUxNzM2NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.CqrXhKCha1VwY6pD66Giytkb7sbLyfMZOsk2ETXPVgY&offset=3
+http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=...
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Киномикс HD
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzMTE3ODAsImlhdCI6MTc1MjIyNTM4MCwiY2lkIjo2LCJ1aWQiOjkyOTUxNzM2NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.CqrXhKCha1VwY6pD66Giytkb7sbLyfMZOsk2ETXPVgY&offset=3
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=...
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzMTE3ODAsImlhdCI6MTc1MjIyNTM4MCwiY2lkIjo2LCJ1aWQiOjkyOTUxNzM2NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.CqrXhKCha1VwY6pD66Giytkb7sbLyfMZOsk2ETXPVgY&offset=3
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=...
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",Кинокомедия HD
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzMTE3ODAsImlhdCI6MTc1MjIyNTM4MCwiY2lkIjo2LCJ1aWQiOjkyOTUxNzM2NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.CqrXhKCha1VwY6pD66Giytkb7sbLyfMZOsk2ETXPVgY&offset=3
+http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=...
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кино",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино",VIJU+ MEGAHIT HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzMTE3ODAsImlhdCI6MTc1MjIyNTM4MCwiY2lkIjo2LCJ1aWQiOjkyOTUxNzM2NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.CqrXhKCha1VwY6pD66Giytkb7sbLyfMZOsk2ETXPVgY&offset=3
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=...
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино",viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=SSAQcUjgsYR2TicDyMVpaw&e=1752184424&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=...&e=1752184424&hls_proxy_host=...
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=bTtcgb9gPIRWd9kafkd-hQ&e=1752184463&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=...&e=1752184463&hls_proxy_host=...
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Мультики",Nickelodeon
 http://195.245.99.242:80/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 1
-https://sb-3.restream.su/preview/20001/61346f1c-4cc6-46e5-9f54-0d8c72188567/live.m3u8
+3u8
