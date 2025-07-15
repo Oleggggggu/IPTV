@@ -4,5 +4,5 @@
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 group-title="KINO+📺",Киносемья UHD
+#EXTINF:-1 group-title="KINO+📺",Киносемья HD
 http://77.235.1.19:8000/play/a06a/index.m3u8
