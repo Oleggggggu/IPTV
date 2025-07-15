@@ -1,63 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Познавательные" tvg-id="Discovery Channel HD" tvg-logo="https://cdn.epg.one/img2/325.png",Discovery
-http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="fashion-one-4k" group-title="Fashion",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Entertainment",TNT4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Megahit HD
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Premiere HD
-http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,КиноХит
-http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Кинокомедия
-http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киносвидание
-http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киносемья
-http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Наше новое кино
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Cinema
-http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Кинопоказ
-http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTIzODk5MzgsImlhdCI6MTc1MjMwMzUzOCwiY2lkIjo2LCJ1aWQiOjkyOTY5NjU5NSwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6Uukj2FCstcPlf-kOi6qTl9N8N-G-dvOEUvR9xT_tTQ&offset=10
-#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10067/logo_256_1658736706.png", Киносерия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/6-oIKW9GqkvfhfKVZZd35g,1752389611/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино",TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1655386719.png", 2x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/2CjNRfufa_5NxMTe8OT_iA,1752389614/streaming/2x2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="mtv-00s" tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a0i0.png" group-title="Музыка",MTV 00s HD
-http://45.5.118.226:8000/play/a0i0/index.m3u8
-#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10830/logo_256_1660892108.png", Тайны Галактики
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/zUV3lyyj-YkHybCCjTC7ew,1752389613/streaming/taina-galaxy/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
-http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Outdoor",Moya Planeta
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:0 group-title="Кино"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",Viju TV1000 Action
-#EXTGRP:Кино
-http://ott.server-iptv.live/623/video.m3u8?token=Md7ac19a92
-#EXTINF:0 tvg-rec="0",MTV 00's PT
-#EXTGRP:музыка
-http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/19159/index.m3u8
-#EXTINF:0 tvg-rec="0",YES-MTV 00s
-#EXTGRP:музыка
-http://87923591.kazaktelekom.com/iptv/GC2GMRRXE5SWHL/19167/index.m3u8
-#EXTINF:-1,TV 1000 Action
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:0,TV 1000 Action
-http://7uxgmyk0.megatv.fun/iptv/G9KZ4MDGBU7DL7/131/index.m3u8
-
+#EXTINF:-1 group-title="KINO+📺",Киносемья UHD
+http://77.235.1.19:8000/play/a06a/index.m3u8
