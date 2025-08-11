@@ -1,0 +1,380 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="44" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8047/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Киносемья
+http://cdn.admuspeh.my/8047/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="36" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8039/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Кинохит
+http://cdn.admuspeh.my/8039/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="37" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8040/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Киномикс
+http://cdn.admuspeh.my/8040/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="38" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8041/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Киносвидание
+http://cdn.admuspeh.my/8041/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="39" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8042/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Кинокомедия
+http://cdn.admuspeh.my/8042/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="40" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8043/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Киносерия
+http://cdn.admuspeh.my/8043/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="41" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8044/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Наше Новое Кино
+http://cdn.admuspeh.my/8044/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="185" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8199/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Кинопремьера
+http://cdn.admuspeh.my/8199/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="310" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D0%B6%D0%B0%D1%81%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8357/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Киноужас HD
+http://cdn.admuspeh.my/8357/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="35" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8038/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Индийское кино
+http://cdn.admuspeh.my/8038/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="66" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8070/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Мужское кино
+http://cdn.admuspeh.my/8070/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="90" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8096/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Родное кино
+http://cdn.admuspeh.my/8096/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="127" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8136/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Дом Кино
+http://cdn.admuspeh.my/8136/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="285" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8313/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Дом Кино Премиум HD
+http://cdn.admuspeh.my/8313/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="662" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Cinema%20HD.png" catchup-days="0", Cinema HD
+http://cdn.admuspeh.my/8949/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="55" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%9D%D0%A24%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8058/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", ТНТ4
+http://cdn.admuspeh.my/8058/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="59" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8063/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", Кухня ТВ
+http://cdn.admuspeh.my/8063/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="30" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MTV%2000s%20RO.png" catchup-days="0", MTV 00s
+http://cdn.admuspeh.my/8032/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:0 CUID="1061" tvg-name="Home 4K" tvg-id="home-4k" tvg-logo="http://epg.it999.ru/img/2745.png" group-title=" 4К (UltraHD)",Home 4K
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS80MDAyL2luZGV4Lm0zdTgiLCJpZCI6MTA2MX0%3D/fast
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-1"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7167.png",BCU Premiere 1 HD
+http://str21.ottg.app/7167/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-2"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2938.png",BCU Premiere 2 HD
+http://str21.ottg.app/2938/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-3"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7597.png",BCU Premiere 3 HD
+http://str21.ottg.app/7597/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-reality"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2310.png",BCU Reality HD
+http://str21.ottg.app/2310/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-multserial"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8590.png",BCU Мультсериал HD
+http://str21.ottg.app/8590/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-ruserial"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2420.png",BCU RUSERIAL HD
+http://str21.ottg.app/2420/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-sssr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9118.png",BCU СССР HD
+http://str21.ottg.app/9118/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-action"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7255.png",BCU Action HD
+http://str21.ottg.app/7255/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-catastrophe"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5577.png",BCU Catastrophe HD
+http://str21.ottg.app/5577/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-cinema"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1086.png",BCU Cinema HD
+http://str21.ottg.app/1086/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-cinemaplus"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6536.png",BCU Cinema+ HD
+http://str21.ottg.app/6536/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-comedy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2718.png",BCU Comedy HDR
+http://str21.ottg.app/2718/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-fantastic"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7834.png",BCU Fantastic HD
+http://str21.ottg.app/7834/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-filmystic"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6071.png",BCU FilMystic HD
+http://str21.ottg.app/6071/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-history"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8129.png",BCU History HD
+http://str21.ottg.app/8129/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kids"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8585.png",BCU Kids HD
+http://str21.ottg.app/8585/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kids-plus"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6398.png",BCU Kids+ HD
+http://str21.ottg.app/6398/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinorating"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2071.png",BCU Kinorating HD
+http://str21.ottg.app/2071/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-marvel"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1740.png",BCU Marvel HD
+http://str21.ottg.app/1740/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-premiere"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3078.png",BCU Premiere HD
+http://str21.ottg.app/3078/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-romantic"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8010.png",BCU Romantic HD
+http://str21.ottg.app/8010/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-russian"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4165.png",BCU Russian HD
+http://str21.ottg.app/4165/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-vhs"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3239.png",BCU VHS HD
+http://str21.ottg.app/3239/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-media"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1231.png",BCU MEDIA HD
+http://str21.ottg.app/1231/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-stars"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9944.png",BCU Stars HD
+http://str21.ottg.app/9944/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-ultra4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3906.png",BCU Ultra 4K
+http://str21.ottg.app/3906/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-criminal"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3871.png",BCU Criminal HD
+http://str21.ottg.app/3871/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-marvel"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5671.png",BCU Marvel HD OLD
+http://str21.ottg.app/5671/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-media"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1861.png",BCU MEDIA HD OLD
+http://str21.ottg.app/1861/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-comedy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6571.png",BCU Comedy HD
+http://str21.ottg.app/6571/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-survival"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6035.png",BCU Survival HD
+http://str21.ottg.app/6035/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-survival"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7192.png",BCU Survival HD OLD
+http://str21.ottg.app/7192/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-reality"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4522.png",BCU Reality HD OLD
+http://str21.ottg.app/4522/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-premiere-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3408.png",BCU Premiere Ultra 4K
+http://str21.ottg.app/3408/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-cosmo"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3559.png",BCU Cosmo HD
+http://str21.ottg.app/3559/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-cosmo"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2535.png",BCU Cosmo HD OLD
+http://str21.ottg.app/2535/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kids-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6996.png",BCU Kids 4K
+http://str21.ottg.app/6996/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-trumotion"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8885.png",BCU TruMotion HD
+http://str21.ottg.app/8885/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozakaz-premiere-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4822.png",BCU Кинозаказ 4K
+http://str21.ottg.app/4822/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozakaz-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4377.png",BCU Кинозаказ 2 4K
+http://str21.ottg.app/4377/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-marvel-4k-hdr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4469.png",BCU Marvel 4K HDR
+http://str21.ottg.app/4469/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-sssr-hdr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4926.png",BCU СССР HDR
+http://str21.ottg.app/4926/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-marvel"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3756.png",BCU Marvel HDR
+http://str21.ottg.app/3756/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-1"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8155.png",BCU Premiere 1 HDR
+http://str21.ottg.app/8155/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-2"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6272.png",BCU Premiere 2 HDR
+http://str21.ottg.app/6272/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-kinozal-prem-3"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8656.png",BCU Premiere 3 HDR
+http://str21.ottg.app/8656/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-premiere"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2228.png",BCU Premiere HDR
+http://str21.ottg.app/2228/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-fantastic"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7734.png",BCU Fantastic HDR
+http://str21.ottg.app/7734/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-cosmo-hdr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7560.png",BCU Cosmo HDR
+http://str21.ottg.app/7560/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-svaty-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1459.png",BCU Сваты 4K
+http://str21.ottg.app/1459/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-filmystic"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9078.png",BCU FilMystic HDR
+http://str21.ottg.app/9078/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="bcu-action"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3887.png",BCU Action HDR
+http://str21.ottg.app/3887/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-franchise"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3034.png",BOX Franchise HD
+http://str21.ottg.app/3034/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-hybrid"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9042.png",BOX Hybrid HD
+http://str21.ottg.app/9042/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-anime"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6203.png",BOX Anime HD
+http://str21.ottg.app/6203/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-gangster"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3832.png",BOX Gangster HD
+http://str21.ottg.app/3832/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-oscar"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5242.png",BOX Oscar HD
+http://str21.ottg.app/5242/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-memory"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3066.png",BOX Memory HD
+http://str21.ottg.app/3066/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-m-serial"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8301.png",BOX M.Serial HD
+http://str21.ottg.app/8301/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-serial"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1092.png",BOX Serial HD
+http://str21.ottg.app/1092/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-music-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3824.png",BOX Music 4K
+http://str21.ottg.app/3824/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-relax"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6496.png",BOX Relax 4K
+http://str21.ottg.app/6496/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-game"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5320.png",BOX Game HD
+http://str21.ottg.app/5320/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-spy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2591.png",BOX Spy HD
+http://str21.ottg.app/2591/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-travel"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5675.png",BOX Travel HD
+http://str21.ottg.app/5675/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-western"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8359.png",BOX Western HD
+http://str21.ottg.app/8359/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-zombie"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1023.png",BOX Zombie HD
+http://str21.ottg.app/1023/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-cyber"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9647.png",BOX Cyber HD
+http://str21.ottg.app/9647/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-beonedge1live"  group-title="Спорт" tvg-logo="http://pl.ottg.app/icon/5520.png",BOX Be on Edge HD Live 1
+http://str21.ottg.app/5520/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-beonedge2live"  group-title="Спорт" tvg-logo="http://pl.ottg.app/icon/3080.png",BOX Be on Edge HD Live 2
+http://str21.ottg.app/3080/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-beonedge"  group-title="Спорт" tvg-logo="http://pl.ottg.app/icon/1848.png",BOX Be on Edge HD
+http://str21.ottg.app/1848/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-docu"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8015.png",BOX Docu HD
+http://str21.ottg.app/8015/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-ghost"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2824.png",BOX Ghost HD
+http://str21.ottg.app/2824/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-stories"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3282.png",BOX Stories HD
+http://str21.ottg.app/3282/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-fantasy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7903.png",BOX Fantasy HD
+http://str21.ottg.app/7903/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-premiere4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7637.png",BOX Premiere 4K
+http://str21.ottg.app/7637/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-serial4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6044.png",BOX Serial 4K
+http://str21.ottg.app/6044/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-myday"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2403.png",BOX Mayday HD
+http://str21.ottg.app/2403/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-remast-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2866.png",BOX Remast 4K
+http://str21.ottg.app/2866/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-remast-plus-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8327.png",BOX Remast+ 4K
+http://str21.ottg.app/8327/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-ultrastars-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4602.png",BOX Ultrastars 4K
+http://str21.ottg.app/4602/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-sssr-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2798.png",BOX СССР 4K
+http://str21.ottg.app/2798/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-lofi"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2330.png",BOX Lo-fi HD
+http://str21.ottg.app/2330/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="box-history-4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1565.png",BOX History 4K HDR
+http://str21.ottg.app/1565/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:0 CUID="1429" tvg-name="CineMan Action" tvg-id="cineman-action" tvg-logo="http://epg.it999.ru/img/4684.png" group-title=" Кинозал CineMan",CineMan Action
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAwNi9pbmRleC5tM3U4IiwiaWQiOjE0Mjl9/fast
+#EXTINF:0 CUID="1430" tvg-name="CineMan Marvel" tvg-id="cineman-marvel" tvg-logo="http://1lot.tv/ch/6841.png" group-title=" Кинозал CineMan",CineMan Marvel
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vcy5vbmx5NC50di82ODQxL2luZGV4Lm0zdTg%2FdG9rZW49d1g2b3N5MTlrMCIsImlkIjoxNDMwfQ%3D%3D/fast
+#EXTINF:0 CUID="1431" tvg-name="CineMan MiniSeries" tvg-id="cineman-miniseries" tvg-logo="http://epg.it999.ru/img/7150.png" group-title=" Кинозал CineMan",CineMan MiniSeries
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xOTQzNy9pbmRleC5tM3U4IiwiaWQiOjE0MzF9/fast
+#EXTINF:0 CUID="1432" tvg-name="CineMan Premium" tvg-id="cineman-premium" tvg-logo="http://epg.it999.ru/img/7485.png" group-title=" Кинозал CineMan",CineMan Premium
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8yMDExMi9pbmRleC5tM3U4IiwiaWQiOjE0MzJ9/fast
+#EXTINF:0 CUID="1433" tvg-name="CineMan Thriller" tvg-id="cineman-thriller" tvg-logo="http://epg.it999.ru/img/4685.png" group-title=" Кинозал CineMan",CineMan Thriller
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAwNy9pbmRleC5tM3U4IiwiaWQiOjE0MzN9/fast
+#EXTINF:0 CUID="1434" tvg-name="CineMan Top" tvg-id="cineman-top" tvg-logo="http://epg.it999.ru/img/4683.png" group-title=" Кинозал CineMan",CineMan Top
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAwNS9pbmRleC5tM3U4IiwiaWQiOjE0MzR9/fast
+#EXTINF:0 CUID="1435" tvg-name="CineMan VHS" tvg-id="cineman-vhs" tvg-logo="http://epg.it999.ru/img/4690.png" group-title=" Кинозал CineMan",CineMan VHS
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAxMi9pbmRleC5tM3U4IiwiaWQiOjE0MzV9/fast
+#EXTINF:0 CUID="1436" tvg-name="CineMan Глухарь + Карпов" tvg-logo="http://1lot.tv/ch/9155.png" group-title=" Кинозал CineMan",CineMan Глухарь + Карпов
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vcy5vbmx5NC50di85MTU1L2luZGV4Lm0zdTg%2FdG9rZW49d1g2b3N5MTlrMCIsImlkIjoxNDM2fQ%3D%3D/fast
+#EXTINF:0 CUID="1437" tvg-name="CineMan Интерны" tvg-logo="http://1lot.tv/ch/9156.png" group-title=" Кинозал CineMan",CineMan Интерны
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vcy5vbmx5NC50di85MTU2L2luZGV4Lm0zdTg%2FdG9rZW49d1g2b3N5MTlrMCIsImlkIjoxNDM3fQ%3D%3D/fast
+#EXTINF:0 CUID="1438" tvg-name="CineMan Катастрофы" tvg-id="cineman-katastrofy" tvg-logo="http://epg.it999.ru/img/5585.png" group-title=" Кинозал CineMan",CineMan Катастрофы
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNTEwNi9pbmRleC5tM3U4IiwiaWQiOjE0Mzh9/fast
+#EXTINF:0 CUID="1439" tvg-name="CineMan Комедия" tvg-id="cineman-comedy" tvg-logo="http://epg.it999.ru/img/4689.png" group-title=" Кинозал CineMan",CineMan Комедия
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAxMS9pbmRleC5tM3U4IiwiaWQiOjE0Mzl9/fast
+#EXTINF:0 CUID="1440" tvg-name="CineMan Лесник" tvg-id="cineman-lesnik" tvg-logo="http://epg.it999.ru/img/6053.png" group-title=" Кинозал CineMan",CineMan Лесник
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNjA2NS9pbmRleC5tM3U4IiwiaWQiOjE0NDB9/fast
+#EXTINF:0 CUID="1441" tvg-name="CineMan Мелодрама" tvg-logo="http://epg.it999.ru/img/4686.png" group-title=" Кинозал CineMan",CineMan Мелодрама
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAwOC9pbmRleC5tM3U4IiwiaWQiOjE0NDF9/fast
+#EXTINF:0 CUID="1442" tvg-name="CineMan Ментовские войны" tvg-id="cineman-musw" tvg-logo="http://epg.it999.ru/img/6051.png" group-title=" Кинозал CineMan",CineMan Ментовские войны
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNjA2My9pbmRleC5tM3U4IiwiaWQiOjE0NDJ9/fast
+#EXTINF:0 CUID="1443" tvg-name="CineMan ПёС" tvg-id="cineman" tvg-logo="http://epg.it999.ru/img/6052.png" group-title=" Кинозал CineMan",CineMan ПёС
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNjA2NC9pbmRleC5tM3U4IiwiaWQiOjE0NDN9/fast
+#EXTINF:0 CUID="1444" tvg-name="CineMan РуКино" tvg-id="cineman-rukino" tvg-logo="http://epg.it999.ru/img/4691.png" group-title=" Кинозал CineMan",CineMan РуКино
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAxMy9pbmRleC5tM3U4IiwiaWQiOjE0NDR9/fast
+#EXTINF:0 CUID="1445" tvg-name="CineMan Сваты" tvg-id="cineman-svaty" tvg-logo="http://epg.it999.ru/img/4692.png" group-title=" Кинозал CineMan",CineMan Сваты
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAxNC9pbmRleC5tM3U4IiwiaWQiOjE0NDV9/fast
+#EXTINF:0 CUID="1446" tvg-name="CineMan Симпсоны" tvg-id="cineman-simps" tvg-logo="http://epg.it999.ru/img/5525.png" group-title=" Кинозал CineMan",CineMan Симпсоны
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNTEwMS9pbmRleC5tM3U4IiwiaWQiOjE0NDZ9/fast
+#EXTINF:0 CUID="1447" tvg-name="CineMan Скорая Помощь" tvg-id="cineman-skorpom" tvg-logo="http://epg.it999.ru/img/5524.png" group-title=" Кинозал CineMan",CineMan Скорая Помощь
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xNTEwMC9pbmRleC5tM3U4IiwiaWQiOjE0NDd9/fast
+#EXTINF:0 CUID="1448" tvg-name="CineMan Ужасы" tvg-id="cineman-uzhasy" tvg-logo="http://epg.it999.ru/img/4688.png" group-title=" Кинозал CineMan",CineMan Ужасы
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vNTFiMDQ1OTkub3R0cmFzdC5jb20vaXB0di80TjlHRVNITFhCVVNEQS8xMTAxMC9pbmRleC5tM3U4IiwiaWQiOjE0NDh9/fast
+#EXTINF:0 CUID="1449" tvg-name="CineMan Универ" tvg-logo="http://1lot.tv/ch/9157.png" group-title=" Кинозал CineMan",CineMan Универ
+http://iptv.tvzatak.uk/aAW8eUFGpP/FT1CGq5zo7J/8eyJ1cmwiOiJodHRwOi8vcy5vbmx5NC50di85MTU3L2luZGV4Lm0zdTg%2FdG9rZW49d1g2b3N5MTlrMCIsImlkIjoxNDQ5fQ%3D%3D/fast
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-dc"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3021.png",Liberty DC HD
+http://str21.ottg.app/3021/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-korotkometr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7449.png",Liberty Короткометражный HD
+http://str21.ottg.app/7449/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-pixar"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9400.png",Liberty Pixar HD
+http://str21.ottg.app/9400/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-disney"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3333.png",Liberty Disney HD
+http://str21.ottg.app/3333/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-melodramy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5629.png",Liberty Мелодрамы HD
+http://str21.ottg.app/5629/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-boeviki"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4628.png",Liberty Боевики HD
+http://str21.ottg.app/4628/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-bbc"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7909.png",Liberty BBC HD
+http://str21.ottg.app/7909/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-simpsons"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4040.png",Liberty Симпсоны HD
+http://str21.ottg.app/4040/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-svaty"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7963.png",Liberty Сваты HD
+http://str21.ottg.app/7963/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-southpark"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1803.png",Liberty South Park HD
+http://str21.ottg.app/1803/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-komedii"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2056.png",Liberty Комедии HD
+http://str21.ottg.app/2056/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-serialy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9268.png",Liberty Сериалы HD
+http://str21.ottg.app/9268/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-miksmuzik"  group-title="Музыкальные" tvg-logo="http://pl.ottg.app/icon/7283.png",Liberty МиксMusic HD
+http://str21.ottg.app/7283/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-plan360"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3228.png",Liberty Планета360 HD
+http://str21.ottg.app/3228/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-bebimult"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5126.png",Liberty Бебимульт HD
+http://str21.ottg.app/5126/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-zanaves"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6641.png",Liberty Занавес HD
+http://str21.ottg.app/6641/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-anime"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6972.png",Liberty Аниме HD
+http://str21.ottg.app/6972/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-show"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8558.png",Liberty Шоу HD
+http://str21.ottg.app/8558/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-legenda"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5513.png",Liberty Легенда 4K
+http://str21.ottg.app/5513/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-multukr4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8196.png",Liberty Мульт UKR 4K
+http://str21.ottg.app/8196/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kinoukr4k"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3182.png",Liberty Кино UKR 4K
+http://str21.ottg.app/3182/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-rusfilm"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5977.png",Liberty Русфильм 4K
+http://str21.ottg.app/5977/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kinomiks"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6172.png",Liberty Кино Микс 4K
+http://str21.ottg.app/6172/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-mult"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1696.png",Liberty Мульт 4K
+http://str21.ottg.app/1696/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-india"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7566.png",Liberty Индия 4K
+http://str21.ottg.app/7566/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-netflix"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5347.png",Liberty Netflix 4K
+http://str21.ottg.app/5347/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kub"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8143.png",Liberty Куб 4K
+http://str21.ottg.app/8143/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-semejny"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3348.png",Liberty Семейный 4K
+http://str21.ottg.app/3348/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-turkfilm"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/7188.png",Liberty Туркфильм 4K
+http://str21.ottg.app/7188/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-skazki"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6310.png",Liberty Сказки HD
+http://str21.ottg.app/6310/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-mim"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4487.png",Liberty Мим HD
+http://str21.ottg.app/4487/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-soyuz"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4195.png",Liberty Союз 4K
+http://str21.ottg.app/4195/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-fan"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2448.png",Liberty Fan HD
+http://str21.ottg.app/2448/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kinoeng"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3418.png",Liberty Кино ENG 4K
+http://str21.ottg.app/3418/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-multeng"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/5793.png",Liberty Мульт ENG 4K
+http://str21.ottg.app/5793/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-avtogir"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3001.png",Liberty Автогир HD
+http://str21.ottg.app/3001/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kinoukr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/8087.png",Liberty Кино UKR HD
+http://str21.ottg.app/8087/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-multukr"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1461.png",Liberty Мульт UKR HD
+http://str21.ottg.app/1461/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-marvel"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/9072.png",Liberty Marvel 4K
+http://str21.ottg.app/9072/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-trillery"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2300.png",Liberty Триллеры 4K
+http://str21.ottg.app/2300/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-uzhasy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/3214.png",Liberty Ужасы 4K
+http://str21.ottg.app/3214/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-krosh"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2832.png",Liberty Крош HD
+http://str21.ottg.app/2832/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-plankton"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/2486.png",Liberty Планктон HD
+http://str21.ottg.app/2486/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-serialy"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6524.png",Liberty Сериалы 4K
+http://str21.ottg.app/6524/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-kriminal"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/6935.png",Liberty Криминал 4K
+http://str21.ottg.app/6935/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-nauka"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/1193.png",Liberty Наука HD
+http://str21.ottg.app/1193/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-xxvek"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4671.png",Liberty XX Век 4K
+http://str21.ottg.app/4671/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic-ts" tvg-id="liberty-avanpost"  group-title="Кинозалы" tvg-logo="http://pl.ottg.app/icon/4051.png",Liberty Аванпост 4K
+http://str21.ottg.app/4051/mpegts?token=6a067b7b9f865f579c7dfb7955d50205
+#EXTINF:-1 tvg-id="81" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20History%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8086/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", viju History HD
+http://cdn.admuspeh.my/8086/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="80" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Viasat%20Explore.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8085/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", viju Explore HD
+http://cdn.admuspeh.my/8085/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="82" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20Nature%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8087/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", viju Nature HD
+http://cdn.admuspeh.my/8087/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="45" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8048/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju TV1000 HD
+http://cdn.admuspeh.my/8048/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="46" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20Action%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8049/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju TV1000 action HD
+http://cdn.admuspeh.my/8049/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="47" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8050/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju TV1000 русское HD
+http://cdn.admuspeh.my/8050/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="680" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju%20TV1000%20%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0.png" catchup-days="0", viju TV1000 новелла HD
+http://cdn.admuspeh.my/8973/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="113" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Premiere%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8119/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju+ Premiere HD
+http://cdn.admuspeh.my/8119/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="103" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Megahit%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8109/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju+ Megahit HD
+http://cdn.admuspeh.my/8109/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="102" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Comedy%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8108/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", viju+ Comedy HD
+http://cdn.admuspeh.my/8108/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="1232" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Serial%20HD%20orig.png" catchup-days="0", viju+ Serial HD
+http://cdn.admuspeh.my/9222/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="142" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%BE%D1%8F%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8154/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", Моя Планета
+http://cdn.admuspeh.my/8154/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="164" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/[magenta]%20National%20Geographic.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8176/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", National Geographic HD
+http://cdn.admuspeh.my/8176/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="175" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Nat%20Geo%20Wild%20HD%20RO.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8188/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Nat Geo Wild HD
+http://cdn.admuspeh.my/8188/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="193" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/English%20Club%20TV%20HD%20Orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8208/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", English Club TV
+http://cdn.admuspeh.my/8208/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="168" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Canal%20Discovery%20HD%20PL.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8180/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="7", Discovery Channel HD
+http://cdn.admuspeh.my/8180/video.m3u8?token=kdYCaZwgf4sjhSJw
+#EXTINF:-1 tvg-id="70" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/Investigation%20Discovery%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8074/video-${start}-${duration}.m3u8?token=kdYCaZwgf4sjhSJw" timeshift="14", Discovery Investigation
+http://cdn.admuspeh.my/8074/video.m3u8?token=kdYCaZwgf4sjhSJw
+
